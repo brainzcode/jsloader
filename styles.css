@@ -58,6 +58,11 @@ p {
     }
 }
 
+.name-container {
+    height: 30px;
+    overflow: hidden;
+}
+
 .logo-title {
     color: #fff;
     font-size: 20px;
